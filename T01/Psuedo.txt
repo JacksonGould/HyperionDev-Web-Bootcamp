@@ -1,0 +1,83 @@
+// Scenario 1:
+
+
+Create variable "vowels" with 0 value
+
+Prompt user for character input
+
+If input is a letter
+
+	Determine if vowel or consonant
+
+		if input is a vowel 
+			
+			then add 1 to "vowels"
+	
+		else if input not a vowel
+			
+			then add 0 to "vowels" 
+
+	Repeat prompt for user input
+
+else if input is a number
+
+	output "vowels"
+
+
+
+
+
+// Scenario 2:
+
+Prompt user to input numbers
+
+Store  input in integer variable "input"
+
+Determine if each number is odd or even
+
+	if number is even
+		
+		store numnber in "even" variable
+
+	if number is odd
+		
+		store number in "odd" variable
+
+Calculate average of "even"
+
+Calculate average of "odd"
+
+output average of even
+
+output average of odd
+
+	
+
+	
+
+
+// Scenario 3:
+
+Prompt user to input list
+
+Store list in variable "names"
+
+Identify first letter in each name
+
+Arrange names in alphabetical order (A = 1, B = 2, etc)
+
+	Store ordered names in variable "names-abc"
+
+	If more than one name has same first letter
+
+		Identify second letter in the name
+
+		Arrange names into alphabetical order
+
+Output "names-abc"
+
+
+
+
+
+		

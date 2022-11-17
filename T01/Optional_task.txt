@@ -1,0 +1,41 @@
+// Optional Bonus Task:
+
+Prompt user to input a number
+
+Store input in variable "n"
+
+If "n" is less than 10 and is 1,4,6,8, 9
+
+Or "n" is greater than 9 and ends with 0,2,4, 5 ,6, 8
+
+	Output "Not Prime"
+
+
+Else add digits of "n" together and store result in variable "sum"
+
+	If "sum" can divide by 3
+
+	Output "Not Prime"
+
+
+Else calculate square root of "n"
+
+Store square root in variable "root"
+
+	// I'm aware that this is where my algorithm breaks down
+
+Determine all prime numbers below value of "root"	
+
+	If "root" can be divided by prime number below "root"
+
+		Output "Not Prime"
+
+	Else
+
+		Output "Prime"
+
+	
+
+		
+//Source - Used to gather prime formula: https://linkshortner.net/nRiaa
+	 

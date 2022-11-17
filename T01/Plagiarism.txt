@@ -1,0 +1,78 @@
+// 1.
+
+ Plagiarism is the act of copying (whether directly or indirectly) the work of someone else, or previous work from yourself, without 
+properly referencing it within your work.
+
+If you fail to reference where and when you have copied or borrowed from another source, then essentially you are stealing the work
+of someone else and passing it off as your own.
+
+Not only does this undermine the honesty of your work, but it also hinders your learning experience as you're failing to demonstrate to your 
+academic mentors when you are struggling. This means that when it comes to the real world, such as an interview, you will not have
+fully understood the skills and concepts that may be required.
+
+So ultimately, plagiarism is not only stealing from others but also cheating on yourself.
+
+
+
+
+// 2. 
+
+The 4 Types of Plagiarism:
+
+
+i. Direct Plagiarism:
+
+This is where you copy and paste, either literally or rephrased,  from someone else and pass it off as your own work.
+
+An example of this would be copying a paragraph out of an academic textbook, and perhaps slightly rewording or restructuring the paragraph
+so that it looks different to the original text.  
+
+
+
+
+ii: Self-Plagiarism:
+
+This is where you copy from your own previous work whilst failing to reference where this idea/concept came from.
+
+An example of this would be a student developer who copies an algorithm from a previous piece of work and uses it again. By failing to 
+reference where and why the student copied from themselves they are essentially cheating in thier work as they have not neccessarily 
+demonstrated that they understand the concept.
+
+
+
+iii: Mosiac Plagiarism:
+
+This is where you take information from several different sources and piece it together to make it look like your own original work.
+
+An example of this would be taking text from a couple of online articles discussing the same subject, then adding them together to create
+a new sounding phrase, without any reference to either article copied.
+
+
+
+iv: Accidental Plagiarism:
+
+This is where the plagariasm is unintentional by  accidently copying from someone else, or unknowingly producing work very similiar to
+someone else.
+
+An example of this would be failing to cite a reference within your work, possibly for something the author deemed insignificant or not
+worthy of referencing. Nevertheless this is still plagiarism and is therefore important to be vigilant when using information from elsewhere
+within your own work. (Sourced from www.grammarly.com/blog/types-of-plagiarism).
+
+
+
+
+
+
+//3.
+
+To avoid plagiarism within my own work it is important, as stated above, to be vigilant whenever I am using a source of information from 
+elsewhere, be it a 3rd party or myself. It is essential not to pass others work off as your own, but rather to reference it correctly within
+your own work. Not only does this give credit to original author (yourself included) but also demonstrates where you may have needed 
+extra assistance within your own work so that your academic mentors can take note and provide further assistance where needed.
+
+
+
+
+
+
+
